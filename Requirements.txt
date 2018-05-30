@@ -1,0 +1,4 @@
+Requirements:
+1. Internet Connectivity
+2. Requests library (pip install requests)
+3. Beautiful Soup library  (pip install beautifulsoup4)
